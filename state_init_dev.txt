@@ -1,0 +1,2 @@
+state: init a dev branch
+Suggest having personal branches to manage this project.
